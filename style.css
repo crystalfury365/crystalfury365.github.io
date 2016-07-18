@@ -1,0 +1,22 @@
+body {
+    background-image: url("gruntgoblin.jpg");
+    font-family: 'Fjalla One', sans-serif;
+}
+p {
+	padding-right: 30px;
+	padding-bottom: 20px;
+	padding-left: 30px
+}
+body {
+	color: #66ff33;
+}
+#titles {
+	background: blue;
+	width: 600px;
+	border-radius: 10px;
+}
+#main {
+	background: white;
+	width: 1200px;
+	border-radius: 5px;
+}
